@@ -16,7 +16,7 @@ Bookmarks |	添加行书签
 Bracket Pair Colorizer |	用不同颜色高亮显示匹配的括号
 Can I Use |	HTML5、CSS3、SVG的浏览器兼容性检查
 Code Runner |	运行选中代码段（支持大量语言，包括Node）
-Code Spellchecke |r	单词拼写检查
+Code Spellchecker |	单词拼写检查
 CodeBing |	在VSCode中弹出浏览器并搜索，可编辑搜索引擎
 Color Highlight |	颜色值在代码中高亮显示
 Color Info | 小窗口显示颜色值，rgb,hsl,cmyk,hex等等
